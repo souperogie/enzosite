@@ -1,1 +1,2 @@
 1. Add navbar
+1.1 logo above navbar
