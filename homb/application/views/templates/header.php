@@ -3,15 +3,21 @@
 <head>
 	<title>HombritosPH : Home</title>
 	<link rel="stylesheet" type="text/css" href="assets/css/materialize.css">
+	<link rel="stylesheet" type="text/css" href="assets/css/global.css">
 </head>
 <body>
-	<nav>
-		<div class="nav-wrapper">
-			<ul id="nav-mobile" class="center hide-on-med-and-down">
-				<li><a href="#">Home</a></li>
-				<li><a href="#">About</a></li>
-				<li><a href="#">Branch</a></li>
-				<li><a href="#">Gallery</a></li>
+	<div>
+		<img style="margin-left: auto; margin-right: auto; display: block;" src="assets/img/homb.jpg" height="300" width="600" align="middle">
+	</div>
+
+	<nav style="background: #fff; text-align: center; " class="nav-center">
+		<div class="nav-wrapper container">
+			<ul>
+				<li><a href="#">HOME</a></li>
+				<li><a href="#">ABOUT US</a></li>
+				<li><a href="#">FRANCHISING</a></li>
+				<li><a href="#">MENU</a></li>
+				<li><a href="#">CONTACT US</a></li>
 			</ul>
 		</div>
 	</nav>

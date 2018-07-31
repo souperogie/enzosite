@@ -1,0 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Lato:700');
+
+body {
+	margin: 0;
+	padding: 0;
+
+	min-height: 100vh;
+	display: flex;
+	flex-direction: column;
+
+	font-family: 'Lato', sans-serif;
+}
+
+.wrapper {
+	margin-right: auto;
+	margin-left: auto;
+
+	max-width: 960px;
+
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+.nav-center ul li {
+	display: inline-block;
+	float: none;
+}
+
+.nav-center ul li a {
+	color: #800000;
+	font-weight: bolder;
+	font-size: 18px;
+	letter-spacing: 1px;
+	padding: 0 0 !important;
+}
